@@ -1,6 +1,7 @@
 {
   "name": "lms-frontend",
-  "private": true,
+  "private": false,
+  "homepage": "https://khrystyna-makar.github.io/test-2/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
